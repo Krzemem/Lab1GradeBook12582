@@ -1,0 +1,12 @@
+C:\Users\Rafal\Desktop\Seba studia\cs-lab01-GradeBookApplication\GradeBook\bin\Debug\netcoreapp2.0\GradeBook.deps.json
+C:\Users\Rafal\Desktop\Seba studia\cs-lab01-GradeBookApplication\GradeBook\bin\Debug\netcoreapp2.0\GradeBook.runtimeconfig.json
+C:\Users\Rafal\Desktop\Seba studia\cs-lab01-GradeBookApplication\GradeBook\bin\Debug\netcoreapp2.0\GradeBook.runtimeconfig.dev.json
+C:\Users\Rafal\Desktop\Seba studia\cs-lab01-GradeBookApplication\GradeBook\bin\Debug\netcoreapp2.0\GradeBook.dll
+C:\Users\Rafal\Desktop\Seba studia\cs-lab01-GradeBookApplication\GradeBook\bin\Debug\netcoreapp2.0\GradeBook.pdb
+C:\Users\Rafal\Desktop\Seba studia\cs-lab01-GradeBookApplication\GradeBook\obj\Debug\netcoreapp2.0\GradeBook.csprojAssemblyReference.cache
+C:\Users\Rafal\Desktop\Seba studia\cs-lab01-GradeBookApplication\GradeBook\obj\Debug\netcoreapp2.0\GradeBook.csproj.CoreCompileInputs.cache
+C:\Users\Rafal\Desktop\Seba studia\cs-lab01-GradeBookApplication\GradeBook\obj\Debug\netcoreapp2.0\GradeBook.AssemblyInfoInputs.cache
+C:\Users\Rafal\Desktop\Seba studia\cs-lab01-GradeBookApplication\GradeBook\obj\Debug\netcoreapp2.0\GradeBook.AssemblyInfo.cs
+C:\Users\Rafal\Desktop\Seba studia\cs-lab01-GradeBookApplication\GradeBook\obj\Debug\netcoreapp2.0\GradeBook.dll
+C:\Users\Rafal\Desktop\Seba studia\cs-lab01-GradeBookApplication\GradeBook\obj\Debug\netcoreapp2.0\GradeBook.pdb
+C:\Users\Rafal\Desktop\Seba studia\cs-lab01-GradeBookApplication\GradeBook\obj\Debug\netcoreapp2.0\GradeBook.genruntimeconfig.cache
